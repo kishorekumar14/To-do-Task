@@ -1,0 +1,38 @@
+body{
+    background-color: #fefbe9;
+}
+h1{
+    color:#183a1d;
+}
+h2{
+    color:#f0a04b;
+}
+h3{
+    color:#183a1d;
+    ;
+}
+p{
+    color: #183a18;
+}
+.navbar{
+    background-color: #abd49f;
+}
+.card-body{
+    background-color: #abd49f;
+    border-radius: 15px;
+}
+.noteCard{
+    background-color: #abd49f;
+    border-radius: 15px;
+}
+hr{
+    border: #000000;
+}
+.navbar-brand{
+    color:#000000;
+    text-decoration: solid;
+}
+.btn{
+    background-color: #183a1d;
+}
+
